@@ -1,4 +1,4 @@
-### Amazon Product Analysis
+# Amazon Product Analysis
 
 ## 📌 Objective
 To analyze 1,465 Amazon products across categories and uncover trends in pricing, discounts, reviews, and ratings. 
@@ -24,7 +24,7 @@ To analyze 1,465 Amazon products across categories and uncover trends in pricing
 - Categories with highest discounts
 - Top 5 products based on rating × review count
 
-# 📁 Project Contents
+### 📁 Project Contents
 Sheet Name	Description
 Raw Data	Original Amazon dataset with 1,465 rows and 16 columns.
 Cleaned Data	Preprocessed data with corrected formats, missing values handled, and unnecessary fields removed.
